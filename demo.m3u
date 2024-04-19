@@ -41,8 +41,6 @@ http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k
 http://112.244.183.5:8012/rtp/239.253.246.122:8000
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场 4K
 http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hxjc4k
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
-http://123.6.102.32:11789/235.php?id=2020603423.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://112.244.183.5:8012/rtp/239.253.246.153:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
