@@ -44,11 +44,11 @@ http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hxjc4k
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 http://123.6.102.32:11789/235.php?id=2020603423.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://117.12.149.13:12345/rtp/225.1.1.215:5002
+http://112.244.183.5:8012/rtp/239.253.246.153:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://117.12.149.13:12345/rtp/225.1.1.213:5002
+http://112.244.183.5:8012/rtp/239.253.246.152:8000
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
-http://117.12.149.13:12345/rtp/225.1.1.214:5002
+http://112.244.183.5:8012/rtp/239.253.246.154:8000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://112.244.183.5:8012/rtp/239.253.246.85:8000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
